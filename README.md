@@ -13,4 +13,4 @@ Steps:
 6. --> Hurray!! you have caluted the variation between the data. ( Standard Deviation)
 
 
-2. File named class1.py and class2.py are just as a practice of plotting data on the graph.
+-->File named class1.py and class2.py are just as a practice of plotting data on the graph.
