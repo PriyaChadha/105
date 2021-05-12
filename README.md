@@ -2,7 +2,7 @@
 
 1. File named Std_deviation.py is the main file to calculate standard deviation
 
-Formulae is: sqrt( sumOf( square(x-meanOfX) ) / n-1))
+--> Formulae is: sqrt( sumOf( square(x-meanOfX) ) / n-1))
 
 Steps:
 --> read the x data values
