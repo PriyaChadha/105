@@ -5,8 +5,8 @@
 --> Formulae is: sqrt( sumOf( square(x-meanOfX) ) / n-1))
 
 Steps:
---> read the x data values
---> calculate mean of those values
+1. --> read the x data values
+2. --> calculate mean of those values
 --> do square of the answer using ** operator
 --> divide it by n-1, where n is the total length of the data elements
 --> do square root of the previous answer.
